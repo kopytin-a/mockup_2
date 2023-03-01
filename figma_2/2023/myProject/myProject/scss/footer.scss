@@ -1,0 +1,79 @@
+.footer {
+    max-width: 100%;
+    background-color: #444240;
+    margin: 90px 0px 0px 0px;
+  }
+  
+  .footer__row {
+    height: 275px;
+    display: flex;
+    padding: 67px 0px 0px 82px;
+  }
+  
+  .footer__logo {
+    margin: 0px 0px 32px 0px;
+  }
+  
+  .footer__contactsText{
+    padding: 0px 151px 0px 0px;
+    li{
+      color: #FFFFFF;
+      font-size: 12px;
+      opacity: 0.72;
+      margin: 0px 0px 15px 0px;
+    } 
+  }
+  
+  .footer__company{
+    color:#FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 12px 130px 0px 0px;
+  }
+  
+  .footer__companyText{
+    padding: 33px 0px 0px 0px;
+    li{
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 400;
+      opacity: 0.72;
+      margin: 0px 0px 15px 0px;
+    }
+  }
+  
+  .footer__buyer{
+    color:#FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 12px 130px 0px 0px;
+  }
+  
+  .footer__buyerText{
+    padding: 33px 0px 0px 0px;
+    li{
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 400;
+      opacity: 0.72;
+      margin: 0px 0px 15px 0px;
+    }
+  }
+  
+  .footer__delivery{
+    color:#FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 12px 130px 0px 0px;
+  }
+  
+  .footer__deliveryText{
+    padding: 33px 0px 0px 0px;
+    li{
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 400;
+      opacity: 0.72;
+      margin: 0px 0px 15px 0px;
+    }
+  }

@@ -1,0 +1,62 @@
+.nav {
+    background-color: rgb(253, 253, 251);
+    max-width: 100%;
+    z-index: 2;
+}
+
+.nav__row {
+    max-width: 100%;
+    display: flex;
+    min-height: 85px;
+}
+
+.nav__logo {
+    padding: 36px 266.32px 0px 0px;
+}
+
+.nav__text {
+    display: flex;
+    padding: 35px 278px 0px 0px;
+}
+
+.nav__textStyle{
+    font-family: Roboto;
+    font-size: 14px;
+    color: rgb(85, 82, 72);
+    margin: 0px 65px 0px 0px;
+    &:last-child{
+        margin: 0px;
+    }
+}
+
+.nav__vector {
+    display: flex;
+    padding: 40px 0px 0px;
+}
+
+.nav__search {
+    padding: 0px 23px 0px 0px;
+}
+
+.nav__like {
+    display: flex;
+    position: relative;
+    padding: 0px 23px 0px 0px;
+}
+
+.nav__height {
+    position: absolute;
+    top: -5px;
+    right: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 13px;
+    height: 13px;
+    background: rgb(230, 200, 180);
+    border-radius: 50%;
+}
+
+.nav_p {
+    font-size: 8px;
+}

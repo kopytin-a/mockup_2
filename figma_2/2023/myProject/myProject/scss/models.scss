@@ -1,0 +1,109 @@
+.models{
+  background-color: #FFFFFF;
+  position: relative;
+  z-index: 1;
+
+}
+
+.models__row{
+  height: 720px;
+  max-width: 100%;
+}
+
+.models__text{
+  display: flex;
+}
+
+.models__h3{
+  padding: 79px 320px 0px 432px;
+  color: #1B1A17;
+  font-size: 32px;
+  font-family: "PlayfairDisplay";
+}
+
+.models__p{
+  padding: 112px 0px 11.5px 0px;
+  color: #444240;
+  font-size: 16px;
+  font-family: "Roboto";
+}
+
+.models__lineStyle{
+  border-bottom: 1px solid #C4C0B6;
+  width: 101px;
+}
+
+.models__body{
+  display: flex;
+  justify-content: space-between;
+}
+
+.models__block{
+  position: relative;
+  margin: 25.5px 0px 0px 0px;
+  background-color: #FDFDFB;
+  width: 370px;
+  height: 467px;
+}
+
+.model__blockInfo{
+  padding: 40px 0px 0px 40px;
+  color: #1B1A17;
+  opacity: 0.82;
+  font-family: "PlayfairDisplay";
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.model__blockP{
+  padding: 10px 0px 0px 0px;
+  color: #1B1A17;
+  opacity: 0.82;
+  font-family: "Prata";
+  font-size: 12px;
+}
+
+.model__blockEllipse{
+  margin: 0px 0px 0px 31px;
+  width: 315px;
+  height: 315px;
+  border: 1px solid transparent;
+  border-radius: 50%; 
+  background-image: linear-gradient(-89.63deg, #E2D0C4 0.3% ,rgba(226, 208, 196, 0) 99.67%,);
+  -webkit-mask-image: radial-gradient(transparent 70%, white 70%);
+}
+
+.model__img1{
+  position: absolute;
+  top: 75px;
+  left: 15px;
+}
+
+.model__img2{
+  position: absolute;
+  top: 65px;
+  left: 10px;
+}
+
+.model__img3{
+  position: absolute;
+  top: 79px;
+  left: 20px;
+}
+
+.model__blockLine{
+  display: flex;
+  padding: 19px 0px 0px 40px;
+}
+
+.model__blockLineStyle{
+  margin: 9px 18px 0px 0px;
+  border-bottom: 1px solid #8B8371;
+  width: 30px;
+}
+
+.model__blockText{
+  font-size: 16px;
+  color: #1B1A17;
+  font-family: "PlayfairDisplay";
+}
